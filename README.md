@@ -1,7 +1,8 @@
-# Hi, I'm Kevind 👋
+# Hi, I'm Kevind Radhitya 👋
 I love coding and exploring new technologies. Currently focused on:
-- 🔧 Building Android apps with **Kotlin**
+- 📱  Building Android apps with **Kotlin**
 - ⚙️ Developing backends using **Laravel**
+- 💻 Building Desktop apps with **CSharp**
 
 ## 🚀 My Projects
 - [Bodyguard App](https://example.com) – Driver monitoring app for safety.
@@ -11,9 +12,9 @@ I love coding and exploring new technologies. Currently focused on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kradhityaw/)
 [![Email](https://img.shields.io/badge/Email-fff?logo=gmail&style=for-the-badge)](mailto:kradhityaw@email.com)
 
-![Kevind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kradhityaw&show_icons=true&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kradhityaw&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kradhityaw&layout=compact&theme=tokyonight)
+<img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="300" />
 
 
 
