@@ -11,6 +11,11 @@ I love coding and exploring new technologies. Currently focused on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kradhityaw/)
 [![Email](https://img.shields.io/badge/Email-fff?logo=gmail&style=for-the-badge)](mailto:kradhityaw@email.com)
 
+![Kevind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kradhityaw&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kradhityaw&layout=compact&theme=tokyonight)
+
+
 
 <!--
 **Kradhityaw/Kradhityaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
