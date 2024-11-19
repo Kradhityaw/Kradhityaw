@@ -5,8 +5,8 @@ I love coding and exploring new technologies. Currently focused on:
 - 💻 Building Desktop apps with **CSharp**
 
 ## 🚀 My Projects
-- [Bodyguard App](https://example.com) – Driver monitoring app for safety.
-- [OSIS Voting System](https://github.com/Kradhityaw/OSIS-Vote) – A modern voting system for schools.
+- [Bodyguard App]([https://example.com](https://github.com/Kradhityaw/Bodyguard)) – Driver monitoring app for safety.
+- [OSIS Voting System]([https://github.com/Kradhityaw/OSIS-Vote](https://github.com/Kradhityaw/osis-voting)) – A modern voting system for schools.
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kradhityaw/)
