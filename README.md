@@ -1,34 +1,23 @@
-# Hi, I'm Kevind Radhitya 👋
-I love coding and exploring new technologies. Currently focused on:
-- 📱  Building Android apps with **Kotlin**
-- ⚙️ Developing backends using **Laravel**
-- 💻 Building Desktop apps with **CSharp**
+# Hi there! 👋
 
-## 🚀 My Projects
-- [Bodyguard App](https://github.com/Kradhityaw/Bodyguard) – Driver monitoring app for safety.
-- [OSIS Voting System](https://github.com/Kradhityaw/osis-voting) – A modern voting system for schools.
+I'm **[Kevind Radhitya Wicaksono]**, a passionate developer currently exploring **Kotlin, C#, ASP.NET, Laravel, and JavaScript**. I enjoy building **IT software solutions for business** and always eager to learn new technologies!
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kradhityaw/)
-[![Email](https://img.shields.io/badge/Email-fff?logo=gmail&style=for-the-badge)](mailto:kradhityaw@email.com)
+## 🔥 About Me
+- 💻 Currently working on a **job portal** using **Laravel & ASP.NET Core API**
+- 🎯 Goal: **Become a full stack developer**
+- 🏗️ Interested in **backend development, API design, and software solutions**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kradhityaw&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kradhityaw&layout=compact&theme=tokyonight)
-<img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="300" />
+## 🛠️ Tech Stack
+- **Languages:** Kotlin | C# | JavaScript | PHP
+- **Backend:** ASP.NET Core | Laravel
+- **Frontend:** WinForms | Android XML
+- **Tools:** Swagger | Visual Studio | Android Studio
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kradhityaw&show_icons=true&theme=tokyonight)
 
+## 📫 Contact Me
+- 📧 Email: [kevindradhitya27@gmail.com](mailto:kevindradhitya27@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/kevind-radz](https://linkedin.com/in/kevind-radz)
 
-<!--
-**Kradhityaw/Kradhityaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 *Let's build something awesome together!*
